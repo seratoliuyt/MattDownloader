@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp6j078t-r8d8nopq",
+  "source_url": "https://www.youtube.com/live/J9vqWasB0Xo?si=gPPuZAFjxDKwerUN",
+  "created_at_utc": "2026-05-15T06:18:28Z",
+  "mode": "single",
+  "total_size_bytes": 1115333,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp6j078t-r8d8nopq/file.bin",
+  "chunks_path_prefix": "jobs/job-mp6j078t-r8d8nopq/chunks/chunk_",
+  "suggested_filename": "J9vqWasB0Xo"
+}
