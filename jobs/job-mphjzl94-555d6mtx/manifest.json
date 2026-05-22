@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mphjzl94-555d6mtx",
+  "source_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1229084589/3ca6069c-6cd4-4643-b5a7-49aaa54c0a9d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-23T00%3A22%3A22Z&rscd=attachment%3B+filename%3Dzyrln-1.6.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T23%3A21%3A57Z&ske=2026-05-23T00%3A22%3A22Z&sks=b&skv=2018-11-09&sig=J117jficCn6n%2F3iLemt66d35OmsNPRbnpqtOBbzvw1Y%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ5NDA0MSwibmJmIjoxNzc5NDkyMjQxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.FfXaL3kSkCLMbN7ZgzUI3ZXGbX_SEyrlmItigeqL0Sg&response-content-disposition=attachment%3B%20filename%3Dzyrln-1.6.apk&response-content-type=application%2Fvnd.android.package-archive",
+  "created_at_utc": "2026-05-22T23:31:16Z",
+  "mode": "single",
+  "total_size_bytes": 27989882,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mphjzl94-555d6mtx/file.bin",
+  "chunks_path_prefix": "jobs/job-mphjzl94-555d6mtx/chunks/chunk_",
+  "suggested_filename": "3ca6069c-6cd4-4643-b5a7-49aaa54c0a9d"
+}
